@@ -76,6 +76,7 @@ code {
 
 .header__content p {
   font-size: 32px;
+  margin: 8% auto;
 }
 
 .header__content button {
@@ -119,7 +120,7 @@ code {
 }
 
 .projects__card {
-  max-width: 350px;
+  max-width: 550px;
 
   padding: 20px;
 
@@ -203,6 +204,7 @@ code {
   font-size: 16px;
   font-weight: 700;
   text-decoration: none;
+  color: #2E3192;
 
   cursor: pointer;
 
